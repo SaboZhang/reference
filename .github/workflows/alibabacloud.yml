@@ -19,7 +19,7 @@ jobs:
 
       - name: ♻️ 编译静态文件
         run: |
-          echo -e 'REF_URL=https://www.luckyits.com/\nREF_LABEL=网站首页\nREF_FOOTER= <a href="https://beian.miit.gov.cn/">津ICP备18009311号-2</a> \nLICENSE=Copyright (c) <b>2024</b> 我想要两个西柚' > .env
+          echo -e 'REF_URL=https://www.luckyits.com/\nREF_LABEL=网站首页\nREF_FOOTER= <a href="https://beian.miit.gov.cn/">津ICP备18009311号-2</a> \nLICENSE=Copyright (c) <b>2024-2025</b> 我想要两个西柚' > .env
           npm install
           npm run build
 
