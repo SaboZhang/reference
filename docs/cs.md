@@ -1707,6 +1707,51 @@ string[] strs3 = arr[3..7];
 string[] strs4 = arr[^4..^2];
 ```
 
+.NET CLI 命令
+-----------
+
+### 基本命令
+
+<!--rehype:wrap-class=col-span-3-->
+
+命令 | 说明 | 备注
+:-- | -- | --
+`dotnet new <TEMPLATE>` | 根据指定的模板，创建新的项目、配置文件或解决方案。| .NET Core 3.1 SDK 及更高版本
+`dotnet new list [<TEMPLATE_NAME>]`| 列出要使用 `dotnet new` 运行的可用模板| .NET Core 3.1 SDK 及更高版本
+`dotnet new search [<TEMPLATE_NAME>]`| 在 NuGet.org 上搜索 `dotnet new` 支持的模板|.NET Core 5.0.300 SDK 及更高版本
+`dotnet new details [<PACKAGE_NAME>]`| `dotnet new details` 命令显示提供的包名称中模板包的元数据 | .NET 8 及更高版本
+`dotnet new install <PATH\|NUGET_ID>`| `dotnet new install` 命令从提供的 PATH 或 NUGET_ID 安装模板包| .NET Core 3.1 SDK 及更高版本
+`dotnet new uninstall <PATH\|NUGET_ID>`| dotnet new uninstall 命令在提供的 PATH 或 NUGET_ID 中卸载模板包 | .NET Core 3.1 SDK 及更高版本
+`dotnet new update` | 更新已安装的模板包 | .NET Core 3.1 SDK 及更高版本
+`dotnet new -h\|--help` | 显示 .NET CLI 中 dotnet new 命令的帮助信息，包括可用选项、子命令（模板名称）及其用法说明 | .NET Core 3.1 SDK 及更高版本
+`dotnet restore [<ROOT>]` | 恢复项目的依赖项和工具 | .NET Core 3.1 SDK 及更高版本
+`dotnet restore -?\|-h\|--help` | 打印出有关如何使用 `dotnet restore` 命令的说明 | .NET Core 3.1 SDK 及更高版本
+`dotnet build [<PROJECT>\|<SOLUTION>]` | 将项目及其依赖项生成为一组二进制文件 | .NET Core 3.1 SDK 及更高版本
+`dotnet build -?\|-h\|--help` | 打印出有关如何使用 `dotnet build` 命令的说明 | .NET Core 3.1 SDK 及更高版本
+`dotnet publish [<PROJECT>\|<SOLUTION>]` | 编译应用程序，读取项目文件中指定的依赖项，并将生成的文件集发布到目录 | .NET Core 3.1 SDK 及更高版本
+`dotnet publish -p:PublishProfile=FolderProfile` | 通过引用 .pubxml 文件来设置与发布相关的属性 | .NET Core 3.1 SDK 及更高版本
+`dotnet publish -?\|-h\|--help` | 打印出有关如何使用 `dotnet publish` 命令的说明 | .NET Core 3.1 SDK 及更高版本
+`dotnet run` | 无需任何显式编译或启动命令即可运行源代码 | .NET Core 3.1 SDK 及更高版本
+`dotnet run -h\|--help` | 打印出有关如何使用 `dotnet run` 命令的说明 | .NET Core 3.1 SDK 及更高版本
+`dotnet test [<PROJECT> \| <SOLUTION> \| <DIRECTORY> \| <DLL> \| <EXE>]` |  命令生成解决方案，并使用 VSTest 或Microsoft测试平台（MTP）运行测试 | .NET Core 3.1 SDK 及更高版本
+`dotnet vstest [<TEST_FILE_NAMES>]` | `dotnet vstest` 命令运行 `VSTest.Console` 命令行应用程序以运行自动化单元测试 | .NET Core 3.1 SDK 及更高版本;  `dotnet vstest` 命令被 `dotnet test` 取代，后者现在可用于运行程序集
+`dotnet test -h\|--help` | 打印出有关如何使用 `dotnet test` 命令的说明 | .NET Core 3.1 SDK 及更高版本
+
+### 示例
+
+<!--rehype:wrap-class=col-span-2-->
+
+### 备注
+
+<!--rehype:style=background:#e91e63-->
+
+从 .NET 7 SDK 开始，`dotnet new` 语法已更改：
+
+- `--list`、`--search`、`--install` 和 `--uninstall` 选项已变更为 `list`、`search`、`install` 和 `uninstall` 子命令。
+
+- `--update-apply` 选项变更为 `update` 子命令。若要使用 `--update-check`，请使用包含 `--check-only` 选项的 `update` 子命令。</br>
+之前可用的其他选项仍可用于各自的子命令。 每个子命令的单独帮助可通过 `-h` 或 `--help` 选项获得：`dotnet new <subcommand> --help` 列出子命令的所有支持选项。此外，tab 自动补全现可供 dotnet new 使用。 它支持安装模板名称的自动补全，以及所选模板所提供选项的自动补全。 若要激活 .NET SDK 的 tab 自动补全，请参阅[启用 tab 自动补全](https://learn.microsoft.com/zh-cn/dotnet/core/tools/enable-tab-autocomplete)。
+
 杂项
 -----------
 
