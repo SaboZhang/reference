@@ -249,106 +249,140 @@ REF_LABEL=网站首页
 
 由于中国国内访问，时常打不开，你可以访问下面镜像网站。
 
-- [baiyapeng.cc](https://ref.cc.baiyapeng.cc)
-- [stacktao.cn](https://ref.stacktao.cn)
-- [chanlun.pro](https://ref.chanlun.pro)
-- [ljdyjh.cn](https://ref.ljdyjh.cn)
-- [szsyw.cn](https://projects.szsyw.cn/reference/)
-- [hanauta.icu](https://ref.hanauta.icu)
-- [doc.xyz.sb](https://doc.xyz.sb)
-- [quickref.cn](https://quickref.cn)
-- [axchen.top](https://ref.tool.axchen.top)
-- [tamamo.top](https://ref.tamamo.top)
-- [sakuraovo.site](https://quick-re.site-ali.sakuraovo.site)
-- [nyanon.online](https://quick-re.nyanon.online)
-- [0x0f.dev](https://ref.0x0f.dev)
-- [78888889.xyz](https://reference.78888889.xyz)
-- [pusukeji.com](https://reference.pusukeji.com/)
-- [magese.com](https://ref.magese.com)
-- [doraemon.press](https://reference.doraemon.press/)
-- [foreverlink.love](https://reference.foreverlink.love)
-- [xod.cc](https://ref.xod.cc)
-- [jhao.me](http://reference.jhao.me/)
-- [maoo.me](https://note.maoo.me)
-- [luckyits.com](https://ref.luckyits.com/)
-- [9up.dev](https://devref.9up.dev)
-- [ylmty.cc](https://docs.ylmty.cc)
-- [mingming.dev](https://ref.mingming.dev)
-- [itzcy.com](https://reference.itzcy.com/)
-- [ref.v-ta.com](https://ref.v-ta.com)
-- [eryajf.net](https://ref.eryajf.net/)
-- [isteed.cc](https://ref.isteed.cc/)
-- [666666.dev](https://cheat.666666.dev)
-- [srebro.cn](https://ref.srebro.cn)
-- [guoxudong.io](https://reference.guoxudong.io/)
-- [terryyoung.cn](http://ref.terryyoung.cn/)
-- [quickref.binscor.top](https://quickref.binscor.top)
-- [zone.id](https://cyref.zone.id/)
-- [aibk.cn](https://quickref.aibk.cn)
-- [docflow.cn](https://ref.docflow.cn)
-- [quickref.hestudio.net](https://quickref.hestudio.net)
-- [qiubit.cc](http://ref.qiubit.cc)
-- [moeyuuko.com](https://ref.moeyuuko.com/)
-- [haah.net](https://ref.haah.net)
-- [ownit.top](https://memo.ownit.top)
-- [laoleng.vip](http://bbs.laoleng.vip/reference/)
-- [if010.com](https://quickref.if010.com/)
-- [cms.im](https://quickref.cms.im/)
-- [itcent.cn](https://code.itcent.cn/)
-- [coolxy.top](https://refer.coolxy.top)
-- [kclouder.cn](https://www.kclouder.cn/reference)
-- [xalaok.top](https://ref.xalaok.top)
-- [hao.kim](https://ref.hao.kim)
-- [tool.sakura.vin](https://tool.sakura.vin/ref/)
-- [chenchen.site](https://img.chenchen.site/reference/)
-- [jgeek.cn](http://reference.jgeek.cn/)
-- [gaojs.com.cn](https://study.gaojs.com.cn)
-- [15926.tech](https://ref.15926.tech)
-- [okhk.net](https://ref.okhk.net)
-- [wdft.com](https://ref.wdft.com)
-- [likui.info](https://r.likui.info)
-- [ruiange.work](https://code.ruiange.work/)
-- [denganliang.com](https://ref.denganliang.com)
-- [ivanz.cc](https://ref.ivanz.cc)
-- [dev6.site](https://ref.dev6.site/)
-- [zishu.me](https://ref.zishu.me/)
-- [sucan2233.cn](http://reference.sucan2233.cn)
-- [bobh.cool](https://quickref.bobh.cool)
-- [tangwudi.com](https://doc.tangwudi.com)
-- [osz.icu](https://ref.osz.icu/)
-- [docs.willxup.top](https://docs.willxup.top)
-- [wangchunfei.com](https://ref.wangchunfei.com/)
-- [object.cool](https://r.object.cool)
-- [jeremyjone.com](https://ref.jeremyjone.com/)
-- [gistudy.net](https://reference.gistudy.net/)
-- [deyout.com](https://ref.deyout.com)
-- [const.team](https://reference.const.team)
-- [liamng.de](https://refer.liamng.de)
-- [zcsk18.cn](https://reference.zcsk18.cn/)
-- [hhxyrk.icu](http://hhxy.hhxyrk.icu/)
-- [vhcffh.com](https://docs.vhcffh.com)
-- [childish.vip](https://reference.childish.vip)
-- [hackshen.com](https://reference.hackshen.com)
-- [afetera.top](https://note.afetera.top)
-- [trtuaazz.com](https://reference.trtuaazz.com)
-- [anhaoyang.com](http://dev-doc.anhaoyang.com/)
-- [xxcxx.lat](https://xxcxx.lat/)
-- [fishlee.net](https://cr.fishlee.net/)
-- [yunshangmanyou.com](https://quick.yunshangmanyou.com)
-- [xiaokaixuan.com](https://xiaokaixuan.com/xkx/rq/index.html)
-- [opzz.top](https://reference.opzz.top)
-- [songbaixin.xin](https://home.songbaixin.xin:26009/)
-- [dev.bi](https://dev.bi)
-- [ecdata.cn](http://ref.ecdata.cn)
-- [cnxiaobai.com](https://quickref.cnxiaobai.com)
-- [web.app](https://reference-f1cf1.web.app)
-- [OneNAS.space](https://ref.onenas.space)
-- [leonus.cn](https://ref.leonus.cn/)
-- [taotaome.com](http://www.taotaome.com/)
-- [hurcaguari.top](https://help.hurcaguari.top)
-- [cutterman.cn](https://blog.cutterman.cn/reference/index.html)
-- [notes-bin.top](https://notes-bin.top:10443)
-- [dongdong741236.cn](https://code.dongdong741236.cn/)
+[baiyapeng.cc](https://ref.cc.baiyapeng.cc)
+[stacktao.cn](https://ref.stacktao.cn)
+[chanlun.pro](https://ref.chanlun.pro)
+[ljdyjh.cn](https://ref.ljdyjh.cn)
+[szsyw.cn](https://projects.szsyw.cn/reference/)
+[hanauta.icu](https://ref.hanauta.icu)
+[doc.xyz.sb](https://doc.xyz.sb)
+[quickref.cn](https://quickref.cn)
+[axchen.top](https://ref.tool.axchen.top)
+[tamamo.top](https://ref.tamamo.top)
+[sakuraovo.site](https://quick-re.site-ali.sakuraovo.site)
+[nyanon.online](https://quick-re.nyanon.online)
+[78888889.xyz](https://reference.78888889.xyz)
+[pusukeji.com](https://reference.pusukeji.com/)
+[magese.com](https://ref.magese.com)
+[doraemon.press](https://reference.doraemon.press/)
+[foreverlink.love](https://reference.foreverlink.love)
+[xod.cc](https://ref.xod.cc)
+[jhao.me](http://reference.jhao.me/)
+[maoo.me](https://note.maoo.me)
+[luckyits.com](https://ref.luckyits.com/)
+[9up.dev](https://devref.9up.dev)
+[ylmty.cc](https://docs.ylmty.cc)
+[mingming.dev](https://ref.mingming.dev)
+[itzcy.com](https://reference.itzcy.com/)
+[ref.v-ta.com](https://ref.v-ta.com)
+[eryajf.net](https://ref.eryajf.net/)
+[isteed.cc](https://ref.isteed.cc/)
+[666666.dev](https://cheat.666666.dev)
+[srebro.cn](https://ref.srebro.cn)
+[guoxudong.io](https://reference.guoxudong.io/)
+[terryyoung.cn](http://ref.terryyoung.cn/)
+[quickref.binscor.top](https://quickref.binscor.top)
+[zone.id](https://cyref.zone.id/)
+[aibk.cn](https://quickref.aibk.cn)
+[docflow.cn](https://ref.docflow.cn)
+[quickref.hestudio.net](https://quickref.hestudio.net)
+[qiubit.cc](http://ref.qiubit.cc)
+[moeyuuko.com](https://ref.moeyuuko.com/)
+[haah.net](https://ref.haah.net)
+[ownit.top](https://memo.ownit.top)
+[laoleng.vip](http://bbs.laoleng.vip/reference/)
+[if010.com](https://quickref.if010.com/)
+[cms.im](https://quickref.cms.im/)
+[itcent.cn](https://code.itcent.cn/)
+[coolxy.top](https://refer.coolxy.top)
+[kclouder.cn](https://www.kclouder.cn/reference)
+[xalaok.top](https://ref.xalaok.top)
+[hao.kim](https://ref.hao.kim)
+[tool.sakura.vin](https://tool.sakura.vin/ref/)
+[chenchen.site](https://img.chenchen.site/reference/)
+[jgeek.cn](http://reference.jgeek.cn/)
+[gaojs.com.cn](https://study.gaojs.com.cn)
+[15926.tech](https://ref.15926.tech)
+[okhk.net](https://ref.okhk.net)
+[wdft.com](https://ref.wdft.com)
+[likui.info](https://r.likui.info)
+[ruiange.work](https://code.ruiange.work/)
+[denganliang.com](https://ref.denganliang.com)
+[ivanz.cc](https://ref.ivanz.cc)
+[dev6.site](https://ref.dev6.site/)
+[zishu.me](https://ref.zishu.me/)
+[sucan2233.cn](http://reference.sucan2233.cn)
+[bobh.cool](https://quickref.bobh.cool)
+[tangwudi.com](https://doc.tangwudi.com)
+[osz.icu](https://ref.osz.icu/)
+[docs.willxup.top](https://docs.willxup.top)
+[wangchunfei.com](https://ref.wangchunfei.com/)
+[object.cool](https://r.object.cool)
+[jeremyjone.com](https://ref.jeremyjone.com/)
+[gistudy.net](https://reference.gistudy.net/)
+[deyout.com](https://ref.deyout.com)
+[const.team](https://reference.const.team)
+[liamng.de](https://refer.liamng.de)
+[zcsk18.cn](https://reference.zcsk18.cn/)
+[hhxyrk.icu](http://hhxy.hhxyrk.icu/)
+[vhcffh.com](https://docs.vhcffh.com)
+[childish.vip](https://reference.childish.vip)
+[hackshen.com](https://reference.hackshen.com)
+[afetera.top](https://note.afetera.top)
+[trtuaazz.com](https://reference.trtuaazz.com)
+[anhaoyang.com](http://dev-doc.anhaoyang.com/)
+[xxcxx.lat](https://xxcxx.lat/)
+[fishlee.net](https://cr.fishlee.net/)
+[yunshangmanyou.com](https://quick.yunshangmanyou.com)
+[xiaokaixuan.com](https://xiaokaixuan.com/xkx/rq/index.html)
+[opzz.top](https://reference.opzz.top)
+[songbaixin.xin](https://home.songbaixin.xin:26009/)
+[dev.bi](https://dev.bi)
+[ecdata.cn](http://ref.ecdata.cn)
+[cnxiaobai.com](https://quickref.cnxiaobai.com)
+[web.app](https://reference-f1cf1.web.app)
+[OneNAS.space](https://ref.onenas.space)
+[leonus.cn](https://ref.leonus.cn/)
+[taotaome.com](http://www.taotaome.com/)
+[hurcaguari.top](https://help.hurcaguari.top)
+[cutterman.cn](https://blog.cutterman.cn/reference/index.html)
+[notes-bin.top](https://notes-bin.top:10443)
+[dongdong741236.cn](https://code.dongdong741236.cn/)
+
+下面网站暂时飞走了
+
+[lideshan.top](https://dev.lideshan.top/)
+[94vessel.com](https://book.94vessel.com)
+[7yueee.cn](https://memo.7yueee.cn/)
+[maisblog.cn](https://reference.maisblog.cn/)
+[ruochen.net](https://dev.ruochen.net/)
+[cizai.io](https://reference.cizai.io)
+[alomerry.com](https://ref.alomerry.com)
+[pages.dev](https://reference-bk9.pages.dev/)
+[hrzweb.xyz](https://r.hrzweb.xyz)
+[zsccodelnc.cn](https://zsccodelnc.cn/coderef/)
+[jeffjade.com](https://codehelp.jeffjade.com)
+[fifo.site](https://ref.fifo.site)
+[longdada.me](https://ref.longdada.me)
+[chenze.cloud](https://quick.chenze.cloud)
+[lzzzt.cn](https://ref.lzzzt.cn)
+[fifo.site](https://ref.fifo.site)
+[longdada.me](https://ref.longdada.me)
+[btaw.cn](https://btaw.cn/qr)
+[lzw.me](https://lzw.me/x/reference/)
+[kjchmc.cn](https://ref.kjchmc.cn/)
+[quickreference.pages.dev](https://quickreference.pages.dev/)
+[surcode.cn](https://ref.surcode.cn)
+[xushanxiang.com](https://xushanxiang.com/ref/)
+[mmoke.com](https://ref.mmoke.com)
+[dbyun.net](https://www.dbyun.net/reference/index.html)
+[xiechengqi.top](https://ref.xiechengqi.top)
+[bingchunmoli.com](https://reference.bingchunmoli.com/)
+[131414.xyz](https://reference.131414.xyz/)
+
+如果你有资源，可以很方便地 [部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这一过程非常简单。只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支的代码到你的静态服务即可。
+
+你还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版，或者直接一键部署到 [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/jaywcjlove/reference)。
 
 感谢🙏
 
@@ -402,6 +436,7 @@ jobs:
 <a href="https://github.com/jaywcjlove" title="小弟调调"><img src="https://avatars.githubusercontent.com/u/1680273?v=4" width="42;" alt="小弟调调"/></a>
 <a href="https://github.com/fwqaaq" title="fwqaaq"><img src="https://avatars.githubusercontent.com/u/82551626?v=4" width="42;" alt="fwqaaq"/></a>
 <a href="https://github.com/zhangymPerson" title="zhangym"><img src="https://avatars.githubusercontent.com/u/40376181?v=4" width="42;" alt="zhangym"/></a>
+<a href="https://github.com/QinIndexCode" title="Qin"><img src="https://avatars.githubusercontent.com/u/177287013?v=4" width="42;" alt="Qin"/></a>
 <a href="https://github.com/mofelee" title="mofelee"><img src="https://avatars.githubusercontent.com/u/5069410?v=4" width="42;" alt="mofelee"/></a>
 <a href="https://github.com/Country-If" title="Maylon"><img src="https://avatars.githubusercontent.com/u/62837275?v=4" width="42;" alt="Maylon"/></a>
 <a href="https://github.com/JeffersonHuang" title="Jefferson Huang"><img src="https://avatars.githubusercontent.com/u/47512530?v=4" width="42;" alt="Jefferson Huang"/></a>
@@ -417,6 +452,8 @@ jobs:
 <a href="https://github.com/eryajf" title="二丫讲梵"><img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="42;" alt="二丫讲梵"/></a>
 <a href="https://github.com/ChuwuYo" title="ChuwuYo"><img src="https://avatars.githubusercontent.com/u/141227996?v=4" width="42;" alt="ChuwuYo"/></a>
 <a href="https://github.com/undefined-hestudio" title="undefined"><img src="https://avatars.githubusercontent.com/u/119711513?v=4" width="42;" alt="undefined"/></a>
+<a href="https://github.com/mantoujun12" title="一张白纸"><img src="https://avatars.githubusercontent.com/u/202384594?v=4" width="42;" alt="一张白纸"/></a>
+<a href="https://github.com/infanx" title="infanx"><img src="https://avatars.githubusercontent.com/u/65985757?v=4" width="42;" alt="infanx"/></a>
 <a href="https://github.com/Darkiiiiiice" title="Darkiiiiiice"><img src="https://avatars.githubusercontent.com/u/3959555?v=4" width="42;" alt="Darkiiiiiice"/></a>
 <a href="https://github.com/genius-kim" title="Kim同学"><img src="https://avatars.githubusercontent.com/u/119488561?v=4" width="42;" alt="Kim同学"/></a>
 <a href="https://github.com/qyl27" title="雨落"><img src="https://avatars.githubusercontent.com/u/53731501?v=4" width="42;" alt="雨落"/></a>
@@ -424,15 +461,13 @@ jobs:
 <a href="https://github.com/1250422131" title="萌新杰少"><img src="https://avatars.githubusercontent.com/u/52126790?v=4" width="42;" alt="萌新杰少"/></a>
 <a href="https://github.com/zineyu" title="zine yu"><img src="https://avatars.githubusercontent.com/u/46991452?v=4" width="42;" alt="zine yu"/></a>
 <a href="https://github.com/richuff" title="richuff"><img src="https://avatars.githubusercontent.com/u/162144087?v=4" width="42;" alt="richuff"/></a>
-<a href="https://github.com/QinIndexCode" title="Qin"><img src="https://avatars.githubusercontent.com/u/177287013?v=4" width="42;" alt="Qin"/></a>
+<a href="https://github.com/Harris-H" title="Hao He"><img src="https://avatars.githubusercontent.com/u/57698783?v=4" width="42;" alt="Hao He"/></a>
 <a href="https://github.com/chaos-cn" title="chaos"><img src="https://avatars.githubusercontent.com/u/71205599?v=4" width="42;" alt="chaos"/></a>
 <a href="https://github.com/xia0ne" title="YuRuiH"><img src="https://avatars.githubusercontent.com/u/32591223?v=4" width="42;" alt="YuRuiH"/></a>
 <a href="https://github.com/Willxup" title="Will"><img src="https://avatars.githubusercontent.com/u/51990395?v=4" width="42;" alt="Will"/></a>
-<a href="https://github.com/long-910" title="Small Long"><img src="https://avatars.githubusercontent.com/u/7323488?v=4" width="42;" alt="Small Long"/></a>
-<a href="https://github.com/Harris-H" title="Hao He"><img src="https://avatars.githubusercontent.com/u/57698783?v=4" width="42;" alt="Hao He"/></a>
 <a href="https://github.com/LiuYuan-SHU" title="Yuan Liu"><img src="https://avatars.githubusercontent.com/u/96400967?v=4" width="42;" alt="Yuan Liu"/></a>
+<a href="https://github.com/long-910" title="Small Long"><img src="https://avatars.githubusercontent.com/u/7323488?v=4" width="42;" alt="Small Long"/></a>
 <a href="https://github.com/4twocc" title="42:p"><img src="https://avatars.githubusercontent.com/u/34529275?v=4" width="42;" alt="42:p"/></a>
-<a href="https://github.com/infanx" title="infanx"><img src="https://avatars.githubusercontent.com/u/65985757?v=4" width="42;" alt="infanx"/></a>
 <a href="https://github.com/1834423612" title="kjch"><img src="https://avatars.githubusercontent.com/u/49981661?v=4" width="42;" alt="kjch"/></a>
 <a href="https://github.com/mancuoj" title="mancuoj"><img src="https://avatars.githubusercontent.com/u/45707684?v=4" width="42;" alt="mancuoj"/></a>
 <a href="https://github.com/pangxiaoli" title="pangxiaoli"><img src="https://avatars.githubusercontent.com/u/54620953?v=4" width="42;" alt="pangxiaoli"/></a>
@@ -520,7 +555,7 @@ jobs:
 <a href="https://github.com/phygerr" title="phygerr"><img src="https://avatars.githubusercontent.com/u/42068889?v=4" width="42;" alt="phygerr"/></a>
 <a href="https://github.com/ri-fumo" title="ri-fumo"><img src="https://avatars.githubusercontent.com/u/190000479?v=4" width="42;" alt="ri-fumo"/></a>
 <a href="https://github.com/shanhai1024" title="shanhai1024"><img src="https://avatars.githubusercontent.com/u/56210461?v=4" width="42;" alt="shanhai1024"/></a>
-<a href="https://github.com/Mowmowj" title="nexo"><img src="https://avatars.githubusercontent.com/u/24759562?v=4" width="42;" alt="nexo"/></a>
+<a href="https://github.com/Mowmowj" title="SheltonCheung"><img src="https://avatars.githubusercontent.com/u/24759562?v=4" width="42;" alt="SheltonCheung"/></a>
 <a href="https://github.com/suyangzuo" title="suyangzuo"><img src="https://avatars.githubusercontent.com/u/50766353?v=4" width="42;" alt="suyangzuo"/></a>
 <a href="https://github.com/swift-fs" title="swift-fs"><img src="https://avatars.githubusercontent.com/u/77133741?v=4" width="42;" alt="swift-fs"/></a>
 <a href="https://github.com/wannima66" title="tmen"><img src="https://avatars.githubusercontent.com/u/26410255?v=4" width="42;" alt="tmen"/></a>
@@ -564,11 +599,11 @@ jobs:
 <a href="https://github.com/dogxii" title="Dogxi"><img src="https://avatars.githubusercontent.com/u/106546046?v=4" width="42;" alt="Dogxi"/></a>
 <a href="https://github.com/YLee9527" title="Terry Young"><img src="https://avatars.githubusercontent.com/u/18697332?v=4" width="42;" alt="Terry Young"/></a>
 <a href="https://github.com/whb1998a" title="Wafer"><img src="https://avatars.githubusercontent.com/u/44045064?v=4" width="42;" alt="Wafer"/></a>
-<a href="https://github.com/dwgeneral" title="Happy-Engineer"><img src="https://avatars.githubusercontent.com/u/8654993?v=4" width="42;" alt="Happy-Engineer"/></a>
+<a href="https://github.com/dwgeneral" title="Way"><img src="https://avatars.githubusercontent.com/u/8654993?v=4" width="42;" alt="Way"/></a>
 <a href="https://github.com/BATTLEHAWK00" title="While True: learn()"><img src="https://avatars.githubusercontent.com/u/45313304?v=4" width="42;" alt="While True: learn()"/></a>
 <a href="https://github.com/hi-liyan" title="李李李"><img src="https://avatars.githubusercontent.com/u/40056492?v=4" width="42;" alt="李李李"/></a>
 <a href="https://github.com/Yo-gurts" title="Yogurt"><img src="https://avatars.githubusercontent.com/u/44612841?v=4" width="42;" alt="Yogurt"/></a>
-<a href="https://github.com/zkassing" title="You Kuan Zhang"><img src="https://avatars.githubusercontent.com/u/13414184?v=4" width="42;" alt="You Kuan Zhang"/></a>
+<a href="https://github.com/zkassing" title="Bugue"><img src="https://avatars.githubusercontent.com/u/13414184?v=4" width="42;" alt="Bugue"/></a>
 <a href="https://github.com/dfshizhiqiang" title="Zech"><img src="https://avatars.githubusercontent.com/u/7030019?v=4" width="42;" alt="Zech"/></a>
 <a href="https://github.com/HeZephyr" title="Zephyr He"><img src="https://avatars.githubusercontent.com/u/67893254?v=4" width="42;" alt="Zephyr He"/></a>
 <a href="https://github.com/yikuaibro" title="yikuaibro"><img src="https://avatars.githubusercontent.com/u/44493045?v=4" width="42;" alt="yikuaibro"/></a>
