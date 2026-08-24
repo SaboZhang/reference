@@ -3,7 +3,14 @@
   <sup>Special thanks to:</sup>
   <br>
   <br>
-  
+
+  <a href="https://getapps.cafe/">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
+  </a>
+  <br>
+  <a href="https://getapps.cafe/">getapps.cafe，60 多款原生 Mac 应用，涵盖实用工具、办公、创意和生产力等类别，全部在本地运行，确保你的数据永远不会离开你的设备。</a>
+  <br><br>
+
   <a href="https://screensage.pro/" target="_blank">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
@@ -87,6 +94,16 @@ Quick Reference
   <sup>特别感谢：</sup>
   <br>
   <p>
+    <a href="https://getapps.cafe" target="_blank">
+      <img alt="DolOffer" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
+      <!--rehype:style=width: 230px;-->
+      <br>
+      <b>getapps.cafe</b><br/>
+      60 多款原生 Mac 应用，涵盖实用工具、办公、创意和生产力等类别，全部在本地运行，确保你的数据永远不会离开你的设备。<br/>
+    </a>
+    <!--rehype:style=width: 230px;font-size: 14px;-->
+    <br/>
+    <br/>
     <a href="https://screensage.pro/" target="_blank">
       <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
       <!--rehype:style=width: 230px;-->
@@ -537,7 +554,7 @@ Quick Reference
 <a href="https://github.com/BingChunMoLi" title="冰彦糖"><img src="https://avatars.githubusercontent.com/u/44092516?v=4" width="42;" alt="冰彦糖"/></a>
 <a href="https://github.com/lvzhenbo" title="无聊波波"><img src="https://avatars.githubusercontent.com/u/32427677?v=4" width="42;" alt="无聊波波"/></a>
 <a href="https://github.com/kele527" title="吹衣轻飏"><img src="https://avatars.githubusercontent.com/u/345445?v=4" width="42;" alt="吹衣轻飏"/></a>
-<a href="https://github.com/LuckyJie12" title="夜未央"><img src="https://avatars.githubusercontent.com/u/102901105?v=4" width="42;" alt="夜未央"/></a>
+<a href="https://github.com/LuckyJie3" title="夜未央"><img src="https://avatars.githubusercontent.com/u/102901105?v=4" width="42;" alt="夜未央"/></a>
 <a href="https://github.com/ZIDOUZI" title="子斗子"><img src="https://avatars.githubusercontent.com/u/53157536?v=4" width="42;" alt="子斗子"/></a>
 <a href="https://github.com/Fengjing95" title="小枫"><img src="https://avatars.githubusercontent.com/u/51731411?v=4" width="42;" alt="小枫"/></a>
 <a href="https://github.com/LongYinStudio" title="敬培全"><img src="https://avatars.githubusercontent.com/u/42208852?v=4" width="42;" alt="敬培全"/></a>
@@ -567,7 +584,7 @@ Quick Reference
 <a href="https://github.com/hiyms" title="yms"><img src="https://avatars.githubusercontent.com/u/84654050?v=4" width="42;" alt="yms"/></a>
 <a href="https://github.com/sirius-fan" title="Fan"><img src="https://avatars.githubusercontent.com/u/25720015?v=4" width="42;" alt="Fan"/></a>
 <a href="https://github.com/Fuku-L" title="Foozi"><img src="https://avatars.githubusercontent.com/u/38535911?v=4" width="42;" alt="Foozi"/></a>
-<a href="https://github.com/Furry-Monster" title="Furry-Monster"><img src="https://avatars.githubusercontent.com/u/158404543?v=4" width="42;" alt="Furry-Monster"/></a>
+<a href="https://github.com/Furry-Monster" title="fumo"><img src="https://avatars.githubusercontent.com/u/158404543?v=4" width="42;" alt="fumo"/></a>
 <a href="https://github.com/gongyeheyu" title="GONGYE Heyu"><img src="https://avatars.githubusercontent.com/u/85177605?v=4" width="42;" alt="GONGYE Heyu"/></a>
 <a href="https://github.com/Ding-Kyoma" title="HooinKyoma"><img src="https://avatars.githubusercontent.com/u/44542198?v=4" width="42;" alt="HooinKyoma"/></a>
 <a href="https://github.com/JavaZeroo" title="JavaZero"><img src="https://avatars.githubusercontent.com/u/71128095?v=4" width="42;" alt="JavaZero"/></a>
@@ -644,6 +661,7 @@ Quick Reference
 
 由于中国国内访问，时常打不开，你可以访问下面镜像网站(国内打不开的不再收录)。推荐自己的[镜像网站](https://github.com/jaywcjlove/reference/discussions/206#discussion-4625735)
 
+[vzservice.top](https://ref.vzservice.top)<!--rehype:target=_blank-->
 [baiyapeng.cc](https://ref.cc.baiyapeng.cc)<!--rehype:target=_blank-->
 [stacktao.cn](https://ref.stacktao.cn)<!--rehype:target=_blank-->
 [chanlun.pro](https://ref.chanlun.pro)<!--rehype:target=_blank-->
@@ -665,7 +683,7 @@ Quick Reference
 [jhao.me](http://reference.jhao.me/)<!--rehype:target=_blank-->
 [maoo.me](https://note.maoo.me)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
 [luckyits.com](https://ref.luckyits.com/)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
-[9up.dev](https://devref.9up.dev)<!--rehype:target=_blank-->
+[http418.org](https://devref.http418.org)<!--rehype:target=_blank-->
 [ylmty.cc](https://docs.ylmty.cc)<!--rehype:target=_blank-->
 [mingming.dev](https://ref.mingming.dev)<!--rehype:target=_blank-->
 [itzcy.com](https://reference.itzcy.com/)<!--rehype:target=_blank-->
@@ -743,6 +761,7 @@ Quick Reference
 [cutterman.cn](https://blog.cutterman.cn/reference/index.html)<!--rehype:target=_blank-->
 [notes-bin.top](https://notes-bin.top:10443)<!--rehype:target=_blank&class=contributing&data-info=仅IPv6 👆每天自动同步-->
 [dongdong741236.cn](https://code.dongdong741236.cn/)<!--rehype:target=_blank-->
+[reference-vz.pages.dev](https://reference-vz.pages.dev)<!--rehype:target=_blank-->
 <!--rehype:class=home-card home-links-->
 
 下面网站暂时飞走了
